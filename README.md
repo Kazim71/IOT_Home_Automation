@@ -24,8 +24,9 @@ This is a basic IoT-based Home Automation project using NodeMCU (ESP8266) and Bl
 - `code/` – Arduino sketch files
 - `report/` – Project documentation
 
-## 📷 Demo
-![Demo](https://drive.google.com/file/d/1_LruIlVRKaCIYBI3YZ8Rs6QHE8SxLOI6/view?usp=drive_link)
+## 🎥 Demo Video
+
+🔗 [Click here to watch the demo video](https://drive.google.com/file/d/1_LruIlVRKaCIYBI3YZ8Rs6QHE8SxLOI6/view?usp=sharing)
 
 ## 📄 License
 This project is open-source and free to use.
